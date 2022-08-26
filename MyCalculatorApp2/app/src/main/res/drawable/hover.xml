@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/plus_hover"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/minus_hover"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/multiply_hover"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/percent_hover"
+        android:state_focused="true" />
+    <item android:drawable="@drawable/divide_hover"
+        android:state_focused="true" />
+
+</selector>
